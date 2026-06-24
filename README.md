@@ -4,3 +4,5 @@ This repo contains notebooks and code for detecting propellor failure in drones 
 
 ## Structure
 - `dataset`: contains the raw data used
+- `processing`: contains the code for preprocessing the data
+- `training`: contains the code for training the autoencoder
